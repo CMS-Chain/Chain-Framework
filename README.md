@@ -1,2 +1,2 @@
-# Chain-Framework
-Framework for ChainID.
+# pagekit-framework
+Framework for Bixie Pagekit Extensions
